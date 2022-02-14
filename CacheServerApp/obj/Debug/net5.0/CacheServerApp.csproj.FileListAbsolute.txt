@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\bin\Debug\net5.0\CacheServerApp.exe
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\bin\Debug\net5.0\CacheServerApp.deps.json
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\bin\Debug\net5.0\CacheServerApp.runtimeconfig.json
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\bin\Debug\net5.0\CacheServerApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\bin\Debug\net5.0\CacheServerApp.dll
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\bin\Debug\net5.0\ref\CacheServerApp.dll
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\bin\Debug\net5.0\CacheServerApp.pdb
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\obj\Debug\net5.0\CacheServerApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\obj\Debug\net5.0\CacheServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\obj\Debug\net5.0\CacheServerApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\obj\Debug\net5.0\CacheServerApp.AssemblyInfo.cs
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\obj\Debug\net5.0\CacheServerApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\obj\Debug\net5.0\CacheServerApp.dll
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\obj\Debug\net5.0\ref\CacheServerApp.dll
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\obj\Debug\net5.0\CacheServerApp.pdb
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\CacheServerApp\obj\Debug\net5.0\CacheServerApp.genruntimeconfig.cache

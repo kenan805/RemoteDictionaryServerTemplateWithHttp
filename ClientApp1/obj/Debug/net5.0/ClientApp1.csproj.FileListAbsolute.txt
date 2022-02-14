@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\bin\Debug\net5.0\ClientApp1.exe
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\bin\Debug\net5.0\ClientApp1.deps.json
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\bin\Debug\net5.0\ClientApp1.runtimeconfig.json
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\bin\Debug\net5.0\ClientApp1.runtimeconfig.dev.json
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\bin\Debug\net5.0\ClientApp1.dll
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\bin\Debug\net5.0\ref\ClientApp1.dll
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\bin\Debug\net5.0\ClientApp1.pdb
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\obj\Debug\net5.0\ClientApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\obj\Debug\net5.0\ClientApp1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\obj\Debug\net5.0\ClientApp1.AssemblyInfo.cs
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\obj\Debug\net5.0\ClientApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\obj\Debug\net5.0\ClientApp1.dll
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\obj\Debug\net5.0\ref\ClientApp1.dll
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\obj\Debug\net5.0\ClientApp1.pdb
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\obj\Debug\net5.0\ClientApp1.genruntimeconfig.cache
+C:\Users\user\source\repos\RemoteDictionaryServerTemplateWithHttp\ClientApp1\obj\Debug\net5.0\ClientApp1.csproj.AssemblyReference.cache

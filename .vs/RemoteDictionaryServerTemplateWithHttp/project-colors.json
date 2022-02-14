@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ee5d69b-6169-420d-a8b2-2c5babdfc722": {
+      "ProjectGuid": "7ee5d69b-6169-420d-a8b2-2c5babdfc722",
+      "DisplayName": "ServerApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cc98528c-34c3-4c05-8bc3-86edc5715f1a": {
+      "ProjectGuid": "cc98528c-34c3-4c05-8bc3-86edc5715f1a",
+      "DisplayName": "CacheServerApp",
+      "ColorIndex": 1
+    },
+    "b9af7eda-894b-4fc0-8f91-aad83ba155af": {
+      "ProjectGuid": "b9af7eda-894b-4fc0-8f91-aad83ba155af",
+      "DisplayName": "ClientApp1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
