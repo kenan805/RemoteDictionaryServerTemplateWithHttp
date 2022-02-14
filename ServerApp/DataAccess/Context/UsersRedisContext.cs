@@ -23,7 +23,7 @@ namespace ServerApp.DataAccess.Context
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=WIN-ML3N7I995PP;Database=UsersRedis;Trusted_Connection=True;User ID=sa;Password=asus1212;");
+                optionsBuilder.UseSqlServer("Server=WIN-ML3N7I995PP;Database=UsersRedis;Trusted_Connection=True;User ID=sa;Password=******;");
             }
         }
 
